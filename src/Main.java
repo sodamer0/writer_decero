@@ -14,6 +14,7 @@ public class Main {
         System.out.println("2 . Leer un archivo");
         System.out.println("3 . Borrar un archivo");
         System.out.println("4 . Listar ficheros de un directorio");
+        System.out.println("5 . Establecer directorio de trabajo");
         System.out.println("0 . Salir");
         System.out.println("################################");
     }
